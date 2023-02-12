@@ -1,0 +1,62 @@
+[{
+    "coding": {
+        "id": 30,
+        "title": "webアニメーション勉強会 with デジタルハリウッドSTUDIO広島",
+        "date": {
+            "yaer": 2022,
+            "month": 9,
+            "day": 10,
+            "starttime": "16:00",
+            "endtime": "19:00"
+        },
+        "place": {
+            "name": "オンライン",
+            "floor": "",
+            "roome": "",
+            "address": "ZOOM予定"
+        },
+        "regist": {
+            "name": "connpass",
+            "url": "https://hfe.connpass.com/event/",
+            "id": "258771"
+        },
+        "lecturer": {
+            "name": "",
+            "belong": "",
+            "url": ""
+        },
+        "capacity": 40,
+        "fee": "0",
+        "description": "広島フロントエンド勉強会 Vol.30はデジタルハリウッドSTUDIO広島とコラボして2回連続企画でお送りします。\n  その1回目となる広島フロントエンド勉強会 Vol.30は山本直輝さん、永岡史哉さん、佐藤高光さんを講師に迎え初心者向けにWebGLやマイクロインタラクションなどwebアニメーションについて行います。\n\n県内のコロナウイルスの感染状況を鑑みてオンラインで開催予定です。\n\nURLは後日参加登録された方に共有します。"
+    },
+    "design": {
+        "id": 12,
+        "title": "WEBデザインお悩み相談会",
+        "date": {
+            "yaer": 2019,
+            "month": 10,
+            "day": 27,
+            "starttime": "13:00",
+            "endtime": "15:00"
+        },
+        "place": {
+            "name": "合人社ウェンディひと・まちプラザ",
+            "floor": "南棟3階",
+            "roome": "会議室B",
+            "address": "広島県広島市中区袋町6-36"
+        },
+        "regist": {
+            "name": "connpass",
+            "url": "https://hirofurodesign.connpass.com/event/",
+            "id": "150159"
+        },
+        "lecturer": {
+            "name": "",
+            "belong": "",
+            "url": ""
+        },
+        "capacity": 15,
+        "fee": 200,
+        "description": "デザインについて、みんなでワイワイ情報交換をしましょう♪\n「デザインツールは何を使ってる？」「おすすめのフォントある？」「作業が早くなる方法を知りたい！」「SNSで情報収集してる？」などなど。\n関心ごとを持ち寄って自由にお話しましょう^^\nデザイナーだけでなく、エンジニアや学生、別分野の方など幅広くご参加お待ちしています。"
+    }
+}]
