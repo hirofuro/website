@@ -1,20 +1,20 @@
 [
     {
         "coding": {
-            "id": 30,
-            "title": "webアニメーション勉強会 with デジタルハリウッドSTUDIO広島",
+            "id": 31,
+            "title": "Node.jsハンズオン",
             "date": {
-                "yaer": 2022,
-                "month": 9,
-                "day": 10,
-                "starttime": "16:00",
+                "yaer": 2023,
+                "month": 3,
+                "day": 18,
+                "starttime": "17:30",
                 "endtime": "19:00"
             },
             "place": {
-                "name": "オンライン",
-                "floor": "",
-                "roome": "",
-                "address": "ZOOM予定"
+                "name": "合人社ウェンディひと・まちプラザ",
+                "floor": "南棟：３階",
+                "roome": "会議室Ａ",
+                "address": "広島市中区袋町6-36"
             },
             "regist": {
                 "name": "connpass",
@@ -22,13 +22,13 @@
                 "id": "258771"
             },
             "lecturer": {
-                "name": "",
+                "name": "大杉 将輝",
                 "belong": "",
                 "url": ""
             },
             "capacity": 40,
             "fee": "0",
-            "description": "広島フロントエンド勉強会 Vol.30はデジタルハリウッドSTUDIO広島とコラボして2回連続企画でお送りします。\n  その1回目となる広島フロントエンド勉強会 Vol.30は山本直輝さん、永岡史哉さん、佐藤高光さんを講師に迎え初心者向けにWebGLやマイクロインタラクションなどwebアニメーションについて行います。\n\n県内のコロナウイルスの感染状況を鑑みてオンラインで開催予定です。\n\nURLは後日参加登録された方に共有します。"
+            "description": "Node.jsのハンズオンを行います。"
         },
         "design": {
             "id": 14,
