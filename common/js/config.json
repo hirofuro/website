@@ -26,8 +26,8 @@
                 "belong": "",
                 "url": ""
             },
-            "capacity": 40,
-            "fee": "0",
+            "capacity": 15,
+            "fee": 500,
             "description": "Node.jsのハンズオンを行います。"
         },
         "design": {
@@ -50,7 +50,7 @@
             "regist": {
                 "name": "connpass",
                 "url": "https://hirofurodesign.connpass.com/event/",
-                "id": "187483"
+                "id": "276963"
             },
             "lecturer": {
                 "name": "",
