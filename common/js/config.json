@@ -2,7 +2,7 @@
     {
         "coding": {
             "id": 31,
-            "title": "Node.jsハンズオン",
+            "title": "フロントエンジニア向け Node.js ハンズオン",
             "date": {
                 "yaer": 2023,
                 "month": 3,
@@ -24,11 +24,11 @@
             "lecturer": {
                 "name": "大杉 将輝",
                 "belong": "",
-                "url": ""
+                "url": "https://www.nasa114.jp/"
             },
             "capacity": 15,
             "fee": 500,
-            "description": "Node.jsのハンズオンを行います。"
+            "description": "React などのフレームワークの初期化などで何気なく利用している Node.js のハンズオンを行います。 \n 今回のハンズオンでは、 Node.js プロジェクトの作り方から、ファイルの扱いなどを行う予定です。"
         },
         "design": {
             "id": 14,
